@@ -1,0 +1,44 @@
+.centerbox {
+    width: auto;
+    height: auto;
+    border: 2px solid #404040;
+    border-radius: 50px;
+    align-items: center;
+    text-align: justify;
+    background-color: #7689de;
+}
+
+body{
+    align-items: center;
+    text-align: center;
+    background-color: #a9dce3;
+}
+
+h2,p{
+    text-align: center;
+}
+
+a:link {
+    color: #a9dce3;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+.heroboi{
+    margin-left: 80px;
+  }
+
+input,button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
